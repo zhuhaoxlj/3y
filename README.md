@@ -271,7 +271,7 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接来问我�
 - [Hibernate【与Spring整合】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483906&idx=8&sn=080a5eb746769c9f27d5f0150d177174&chksm=ebd74303dca0ca1554f00e5873eb88481f1760cbe35a814df97f768a9d0b902edc15abf65f29&scene=21###wechat_redirect)
 - [Hibernate面试题大全](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483906&idx=1&sn=16e43bebd697ad451e685038219ae2b9&chksm=ebd74303dca0ca1554311b16939713b4b23a9634ae614b302b8d748431aba6bc9aad83fadfbc&scene=21###wechat_redirect)
 
- 
+
 ###  :page_facing_up:Struts2  ###
 
 - [Struts2【入门】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483925&idx=1&sn=8dad0b63d416fd01f3619a9fb573ab52&chksm=ebd74314dca0ca02d4a46fa3bced4fa5e032c6c4fafee58d3ce8ba7bdfae25e0d1ecc13bfc9c&scene=21###wechat_redirect)
@@ -538,7 +538,7 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接来问我�
 - [听说新版IDEA支持中文，三歪体验了一把](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487003&idx=1&sn=f16b4e53414562a121eff292e3e11937&chksm=ebd74f1adca0c60cb3fdb46ce15614cbaa08217a8d659d440a14c1d8421b154051e8c76e1725&token=306734573&lang=zh_CN#rd)
 
 
-  
+
 
 #### :sparkling_heart:<a name="公众号">加入公众号</a> ###
 
@@ -556,5 +556,5 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接来问我�
 <img src='https://tva1.sinaimg.cn/large/00831rSTly1gcuu0j4wwqj30u014qako.jpg' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gcuuckh3s4j30rc0yo7jr.jpg' width=200px height=200px />
 
 ***
-### :sparkling_heart:[全网最低价购买云服务器](https://mp.weixin.qq.com/s/qu-DNA5CUQWkKPEZF5s3aQ)  一年云服务器只需90块！。
+### :sparkling_heart:[全网最低价购买云服务器](https://mp.weixin.qq.com/s/qu-DNA5CUQWkKPEZF5s3aQ)  一年云服务器只需90块！
 
